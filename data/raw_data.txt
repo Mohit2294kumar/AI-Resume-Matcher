@@ -1,0 +1,3 @@
+Software Engineer	We are seeking a talented software engineer to join our team.
+Data Scientist	You will analyze large datasets to help make data-driven decisions.
+Web Developer	Responsible for front-end and back-end web development tasks.
